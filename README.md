@@ -7,16 +7,20 @@ It introduces a custom file format **(.spdf)** that ensures documents can only b
 ---
 
 ## 🖼️ Application Preview
-![Convert PDF](https://github.com/user-attachments/assets/4ee764b6-f0cc-4825-80d5-395279376581)
+![Convert PDF](<img width="1918" height="1023" alt="Screenshot 2026-05-14 152819" src="https://github.com/user-attachments/assets/34ced1dd-885c-4c1c-bd37-cbaf05a77c27" />
+)
 
 ### 📌 Conversion Process
-![Conversion](https://github.com/user-attachments/assets/a82dbf22-5f18-4523-bb0f-8c1b505d93d8)
+![Conversion](<img width="1918" height="972" alt="Screenshot 2026-05-14 152914" src="https://github.com/user-attachments/assets/4d5c2b48-e629-46c9-bca4-fba0ffde7daf" />
+)
 
 ### 📌 SPDF File Support (Windows)
-![Windows Support](https://github.com/user-attachments/assets/44b9966c-6ae9-4c8e-9abe-4f2a95b04b2d)
+![Windows Support](<img width="1917" height="1018" alt="Screenshot 2026-05-14 152945" src="https://github.com/user-attachments/assets/96db5bd8-3b89-4c67-8462-1ddfd29e8fef" />
+)
 
 ### 🏠 Application (SPDF Reader UI)
-![Homepage](https://github.com/user-attachments/assets/be4280f9-a562-4abd-aafc-8aa49df84a7b)
+![Homepage](<img width="1737" height="1017" alt="image" src="https://github.com/user-attachments/assets/0bf08d7e-1db2-4ab3-be09-d52e39c33403" />
+)
 
 ---
 
