@@ -1,6 +1,6 @@
 # 🔐 SPDF Reader (Secure Protected Document Format)
 
-# live project : https://spdf.in/
+# Live project : https://spdf.in
 
 **SPDF Reader** is a secure document system designed to protect sensitive files used in **policing, cyber investigations, and confidential data handling**.
 
